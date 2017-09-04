@@ -5,7 +5,7 @@
  * 文件名：	SUser.java
  * 模块说明：
  * 修改历史：
- * 2016-7-16 - zhanglin - 创建。
+ * 2016-7-16 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.system.dto;
 
@@ -16,7 +16,7 @@ import java.util.List;
 import com.hd123.wms.antman.common.bean.UCN;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class SUser implements Serializable {

@@ -5,7 +5,7 @@
  * 文件名：	EleTagStateInfo.java
  * 模块说明：
  * 修改历史：
- * 2016-7-8 - zhanglin - 创建。
+ * 2016-7-8 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.facility.gateway.dto;
 
@@ -16,7 +16,7 @@ import java.util.List;
 import com.hd123.hema.store.service.facility.gateway.dto.ElectronicTagStateInfo;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class EleTagStateInfo implements Serializable {

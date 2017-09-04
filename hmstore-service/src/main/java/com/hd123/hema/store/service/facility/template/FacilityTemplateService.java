@@ -5,7 +5,7 @@
  * 文件名：	FacilityTemplate.java
  * 模块说明：
  * 修改历史：
- * 2016-6-27 - zhanglin - 创建。
+ * 2016-6-27 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.facility.template;
 
@@ -14,7 +14,7 @@ import java.util.List;
 import com.hd123.hema.store.bean.facility.template.FacilityTemplate;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public interface FacilityTemplateService {

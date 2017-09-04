@@ -5,7 +5,7 @@
  * 文件名：	StoreController.java
  * 模块说明：
  * 修改历史：
- * 2016-6-23 - zhanglin - 创建。
+ * 2016-6-23 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.material;
 
@@ -36,7 +36,7 @@ import com.wordnik.swagger.annotations.ApiOperation;
 import com.wordnik.swagger.annotations.ApiParam;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @Controller

@@ -16,7 +16,7 @@ import com.hd123.wms.mm.transformer.exception.TransformMMException;
 import com.hd123.wms.mm.transformer.receive.ReceiveInTransformer;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PickStatusReceiveInTransformer extends

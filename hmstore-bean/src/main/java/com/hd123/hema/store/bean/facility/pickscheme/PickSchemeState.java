@@ -5,14 +5,14 @@
  * 文件名：	PickSchemeState.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.pickscheme;
 
 /**
  * 拣货分区状态
  * 
- * @author zhanglin
+ * @author xiepingping
  *
  */
 public enum PickSchemeState {

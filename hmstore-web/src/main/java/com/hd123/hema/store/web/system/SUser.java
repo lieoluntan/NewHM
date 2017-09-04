@@ -5,14 +5,14 @@
  * 文件名：	SUser.java
  * 模块说明：
  * 修改历史：
- * 2016-7-11 - zhanglin - 创建。
+ * 2016-7-11 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.system;
 
 import java.io.Serializable;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class SUser implements Serializable {

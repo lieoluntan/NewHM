@@ -5,7 +5,7 @@
  * 文件名： SignValidator.java
  * 模块说明：
  * 修改历史：
- * 2016-7-20 - zhanglin - 创建。
+ * 2016-7-20 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.common;
 
@@ -19,7 +19,7 @@ import com.hd123.wms.mm.wdk.common.bean.WDKRequestBean;
 import com.hd123.wms.mm.wdk.common.util.AppKeyFactory;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class SignValidator<T extends WDKRequestBean> implements Validator<T> {

@@ -12,7 +12,7 @@ import com.hd123.wms.mm.wdk.common.bean.WDKRequestBean;
 import com.hd123.wms.mm.wdk.common.util.AppKeyFactory;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @JsonIgnoreProperties(ignoreUnknown = true)

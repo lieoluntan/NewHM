@@ -5,7 +5,7 @@
  * 文件名：	StoreServiceImpl.java
  * 模块说明：
  * 修改历史：
- * 2016-6-23 - zhanglin - 创建。
+ * 2016-6-23 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.material.impl;
 
@@ -37,7 +37,7 @@ import com.hd123.wms.antman.system.bean.User;
 import com.hd123.wms.antman.system.dao.UserDao;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class StoreServiceImpl implements StoreService {

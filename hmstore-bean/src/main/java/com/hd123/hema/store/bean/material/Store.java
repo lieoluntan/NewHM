@@ -5,7 +5,7 @@
  * 文件名：	Store.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.material;
 
@@ -17,7 +17,7 @@ import com.hd123.rumba.commons.lang.Assert;
 /**
  * 门店
  * 
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class Store extends Entity implements Validator {

@@ -5,7 +5,7 @@
  * 文件名：	StoreHostService.java
  * 模块说明：
  * 修改历史：
- * 2016-6-17 - zhanglin - 创建。
+ * 2016-6-17 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.material;
 
@@ -14,7 +14,7 @@ import java.util.List;
 import com.hd123.hema.store.bean.material.StoreHost;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public interface StoreHostService {

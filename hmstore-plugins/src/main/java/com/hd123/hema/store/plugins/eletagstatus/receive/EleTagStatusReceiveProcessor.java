@@ -13,7 +13,7 @@ import com.hd123.wms.mm.process.receive.ReceiveWithValidateProcessor;
 import com.hd123.wms.mm.wdk.common.bean.WDKResponseBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class EleTagStatusReceiveProcessor extends ReceiveWithValidateProcessor<StoreELeTagStatus> {

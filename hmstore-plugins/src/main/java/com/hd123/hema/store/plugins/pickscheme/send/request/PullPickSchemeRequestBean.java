@@ -5,14 +5,14 @@
  * 文件名：	PullPickSchemeRequestBean.java
  * 模块说明：
  * 修改历史：
- * 2016-8-1 - zhanglin - 创建。
+ * 2016-8-1 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.pickscheme.send.request;
 
 import com.hd123.wms.mm.wdk.common.bean.WDKRequestBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PullPickSchemeRequestBean extends WDKRequestBean {

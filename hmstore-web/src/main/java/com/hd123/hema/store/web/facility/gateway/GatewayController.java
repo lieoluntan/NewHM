@@ -5,7 +5,7 @@
  * 文件名：	GatewayController.java
  * 模块说明：
  * 修改历史：
- * 2016-6-23 - zhanglin - 创建。
+ * 2016-6-23 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.facility.gateway;
 
@@ -33,7 +33,7 @@ import com.hd123.wms.antman.common.query.QueryParam;
 import com.wordnik.swagger.annotations.ApiOperation;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @Controller

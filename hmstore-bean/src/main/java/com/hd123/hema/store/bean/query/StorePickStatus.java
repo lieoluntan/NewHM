@@ -5,7 +5,7 @@
  * 文件名：	StorePickStatus.java
  * 模块说明：
  * 修改历史：
- * 2016-6-29 - zhanglin - 创建。
+ * 2016-6-29 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.query;
 
@@ -13,7 +13,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class StorePickStatus implements Serializable {

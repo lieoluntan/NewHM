@@ -5,7 +5,7 @@
  * 文件名：	ExcelHelper.java
  * 模块说明：
  * 修改历史：
- * 2016-6-12 - zhanglin - 创建。
+ * 2016-6-12 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.common.utils;
 
@@ -31,7 +31,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class ExcelHelper {

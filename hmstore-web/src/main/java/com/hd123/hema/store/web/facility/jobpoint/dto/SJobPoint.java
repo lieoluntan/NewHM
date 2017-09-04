@@ -5,7 +5,7 @@
  * 文件名：	SJobPoint.java
  * 模块说明：
  * 修改历史：
- * 2016-7-21 - zhanglin - 创建。
+ * 2016-7-21 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.facility.jobpoint.dto;
 
@@ -13,7 +13,7 @@ import com.hd123.hema.store.bean.facility.jobpoint.SGateway;
 import com.hd123.hema.store.web.common.bean.UuidBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  *
  */
 public class SJobPoint extends UuidBean {

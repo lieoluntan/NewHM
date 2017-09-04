@@ -5,7 +5,7 @@
  * 文件名：	RPageData.java
  * 模块说明：
  * 修改历史：
- * 2016-6-17 - zhanglin - 创建。
+ * 2016-6-17 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.common.response;
 
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  *
  */
 public class RPageData<T extends Serializable> implements Serializable {

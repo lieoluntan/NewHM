@@ -5,7 +5,7 @@
  * 文件名：	ElectronicTag.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.gateway;
 
@@ -19,7 +19,7 @@ import com.hd123.rumba.commons.lang.Assert;
 /**
  * 电子标签
  * 
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class ElectronicTag extends Entity implements Validator {

@@ -5,7 +5,7 @@
  * 文件名：	PickSchemeStore.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.pickscheme;
 
@@ -15,7 +15,7 @@ import com.hd123.rumba.commons.biz.entity.UCN;
 /**
  * 拣货方案门店对应关系
  * 
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PickSchemeTemplateStore extends Entity {

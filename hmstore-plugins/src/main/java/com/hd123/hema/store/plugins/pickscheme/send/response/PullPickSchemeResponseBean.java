@@ -5,7 +5,7 @@
  * 文件名：	PullPickSchemeResponseBean.java
  * 模块说明：
  * 修改历史：
- * 2016-8-1 - zhanglin - 创建。
+ * 2016-8-1 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.pickscheme.send.response;
 
@@ -16,7 +16,7 @@ import com.hd123.hema.store.bean.facility.pickscheme.PickScheme;
 import com.hd123.wms.mm.wdk.common.bean.WDKResponseBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PullPickSchemeResponseBean extends WDKResponseBean {

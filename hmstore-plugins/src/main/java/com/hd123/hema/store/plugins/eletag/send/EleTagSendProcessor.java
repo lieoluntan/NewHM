@@ -5,7 +5,7 @@
  * 文件名： GoodsSendProcessor.java
  * 模块说明：
  * 修改历史：
- * 2016-7-21 - zhanglin - 创建。
+ * 2016-7-21 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.eletag.send;
 
@@ -28,7 +28,7 @@ import com.hd123.wms.mm.process.receive.ReceiveWithValidateProcessor;
 import com.hd123.wms.mm.wdk.common.bean.WDKResponseBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class EleTagSendProcessor extends ReceiveWithValidateProcessor<String> {

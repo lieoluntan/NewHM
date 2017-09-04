@@ -5,7 +5,7 @@
  * 文件名：	SwaggerConfig.java
  * 模块说明：
  * 修改历史：
- * 2016-6-22 - zhanglin - 创建。
+ * 2016-6-22 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.common.config;
 
@@ -19,7 +19,7 @@ import com.mangofactory.swagger.plugin.EnableSwagger;
 import com.mangofactory.swagger.plugin.SwaggerSpringMvcPlugin;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @Configuration
@@ -49,7 +49,7 @@ public class SwaggerConfig {
 
   private ApiInfo apiInfo() {
     ApiInfo apiInfo = new ApiInfo("盒马门店系统接口", "该接口实时与后端服务一致，方便前端开发者调用，有问题随时联系",
-        "My Apps API terms of service", "zhanglin@hd123.com", "My Apps API Licence Type",
+        "My Apps API terms of service", "xiepingping@hd123.com", "My Apps API Licence Type",
         "My Apps API License URL");
     return apiInfo;
   }

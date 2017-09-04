@@ -5,7 +5,7 @@
  * 文件名：	SecurityRealm.java
  * 模块说明：
  * 修改历史：
- * 2016-6-21 - zhanglin - 创建。
+ * 2016-6-21 - xiepingping - 创建。
  */
 package com.hd123.hema.store.web.common.security;
 
@@ -24,7 +24,7 @@ import com.hd123.wms.antman.system.bean.User;
 import com.hd123.wms.antman.system.service.UserService;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @Component(value = "securityRealm")

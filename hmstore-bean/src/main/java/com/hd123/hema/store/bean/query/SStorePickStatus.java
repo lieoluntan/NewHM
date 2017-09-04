@@ -5,14 +5,14 @@
  * 文件名：	PickStatus.java
  * 模块说明：
  * 修改历史：
- * 2016-7-22 - zhanglin - 创建。
+ * 2016-7-22 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.query;
 
 import java.io.Serializable;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class SStorePickStatus implements Serializable {

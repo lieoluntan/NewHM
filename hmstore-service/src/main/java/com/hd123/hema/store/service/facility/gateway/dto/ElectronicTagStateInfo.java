@@ -5,7 +5,7 @@
  * 文件名：	ElectronicTagResult.java
  * 模块说明：
  * 修改历史：
- * 2016-6-28 - zhanglin - 创建。
+ * 2016-6-28 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.facility.gateway.dto;
 
@@ -15,7 +15,7 @@ import java.util.Date;
 import com.hd123.hema.store.bean.facility.gateway.NodeState;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class ElectronicTagStateInfo implements Serializable {

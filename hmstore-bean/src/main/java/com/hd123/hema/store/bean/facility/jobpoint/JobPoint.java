@@ -5,7 +5,7 @@
  * 文件名：	JobPoint.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.jobpoint;
 
@@ -20,7 +20,7 @@ import com.hd123.rumba.commons.lang.Assert;
 /**
  * 作业点
  * 
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class JobPoint extends Entity implements Validator {

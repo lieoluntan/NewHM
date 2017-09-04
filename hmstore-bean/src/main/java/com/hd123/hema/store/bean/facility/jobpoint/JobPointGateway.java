@@ -5,7 +5,7 @@
  * 文件名：	JobPointGateway.java
  * 模块说明：
  * 修改历史：
- * 2016-7-27 - zhanglin - 创建。
+ * 2016-7-27 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.jobpoint;
 
@@ -15,7 +15,7 @@ import com.hd123.rumba.commons.biz.entity.Entity;
 import com.hd123.rumba.commons.lang.Assert;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class JobPointGateway extends Entity  implements Validator{

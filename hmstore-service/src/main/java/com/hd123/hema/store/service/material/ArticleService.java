@@ -5,7 +5,7 @@
  * 文件名：	ArticleService.java
  * 模块说明：
  * 修改历史：
- * 2016-6-17 - zhanglin - 创建。
+ * 2016-6-17 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.material;
 
@@ -16,7 +16,7 @@ import com.hd123.wms.antman.common.query.PageQueryDefinition;
 import com.hd123.wms.antman.common.query.PageQueryResult;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public interface ArticleService {

@@ -5,7 +5,7 @@ import java.io.Serializable;
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @JsonIgnoreProperties(ignoreUnknown = true)

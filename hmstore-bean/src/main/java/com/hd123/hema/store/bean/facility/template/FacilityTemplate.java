@@ -5,7 +5,7 @@
  * 文件名：	FacilityTemplate.java
  * 模块说明：
  * 修改历史：
- * 2016-6-15 - zhanglin - 创建。
+ * 2016-6-15 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.facility.template;
 
@@ -22,7 +22,7 @@ import com.hd123.rumba.commons.lang.Assert;
 /**
  * 设施模板
  * 
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class FacilityTemplate extends Entity implements Validator {

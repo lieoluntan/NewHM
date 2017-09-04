@@ -5,14 +5,14 @@
  * 文件名：	FieldLength.java
  * 模块说明：
  * 修改历史：
- * 2016-8-1 - zhanglin - 创建。
+ * 2016-8-1 - xiepingping - 创建。
  */
 package com.hd123.hema.store.bean.common;
 
 import java.io.Serializable;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class FieldLength implements Serializable {

@@ -8,7 +8,7 @@ import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 import com.hd123.hema.store.bean.facility.gateway.NodeState;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @JsonIgnoreProperties(ignoreUnknown = true)

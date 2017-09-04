@@ -5,7 +5,7 @@
  * 文件名：	EleTagStatus.java
  * 模块说明：
  * 修改历史：
- * 2016-7-22 - zhanglin - 创建。
+ * 2016-7-22 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.pickstatus.receive.request;
 
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PickStatus implements Serializable {

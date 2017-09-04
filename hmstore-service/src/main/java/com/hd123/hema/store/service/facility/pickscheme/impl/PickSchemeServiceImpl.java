@@ -5,7 +5,7 @@
  * 文件名：	PickSchemeServiceImpl.java
  * 模块说明：
  * 修改历史：
- * 2016-6-29 - zhanglin - 创建。
+ * 2016-6-29 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.facility.pickscheme.impl;
 
@@ -28,7 +28,7 @@ import com.hd123.wms.antman.common.utils.ListUtils;
 import com.hd123.wms.antman.common.utils.UUIDGenerator;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class PickSchemeServiceImpl implements PickSchemeService {

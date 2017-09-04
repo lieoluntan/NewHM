@@ -5,7 +5,7 @@
  * 文件名： WDKOutTransformer.java
  * 模块说明：
  * 修改历史：
- * 2016-7-20 - zhanglin - 创建。
+ * 2016-7-20 - xiepingping - 创建。
  */
 package com.hd123.hema.store.plugins.common;
 
@@ -18,7 +18,7 @@ import com.hd123.wms.mm.transformer.exception.TransformMMException;
 import com.hd123.wms.mm.wdk.common.bean.WDKResponseBean;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class WDKOutTransformer implements Transformer<ResponseBean, String> {

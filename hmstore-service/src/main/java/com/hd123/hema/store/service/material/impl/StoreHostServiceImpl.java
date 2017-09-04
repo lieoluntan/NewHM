@@ -5,7 +5,7 @@
  * 文件名：	StoreHostServiceImpl.java
  * 模块说明：
  * 修改历史：
- * 2016-6-17 - zhanglin - 创建。
+ * 2016-6-17 - xiepingping - 创建。
  */
 package com.hd123.hema.store.service.material.impl;
 
@@ -25,7 +25,7 @@ import com.hd123.wms.antman.common.query.QueryParam;
 import com.hd123.wms.antman.common.utils.UUIDGenerator;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 @Service

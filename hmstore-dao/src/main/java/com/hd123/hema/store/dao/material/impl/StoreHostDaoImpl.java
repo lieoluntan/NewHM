@@ -5,7 +5,7 @@
  * 文件名：	StoreHostDaoImpl.java
  * 模块说明：
  * 修改历史：
- * 2016-6-16 - zhanglin - 创建。
+ * 2016-6-16 - xiepingping - 创建。
  */
 package com.hd123.hema.store.dao.material.impl;
 
@@ -19,7 +19,7 @@ import com.hd123.wms.antman.common.query.PageQueryDefinition;
 import com.hd123.wms.antman.common.query.QueryParam;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  *
  */
 public class StoreHostDaoImpl extends SqlSessionDaoSupport implements StoreHostDao {

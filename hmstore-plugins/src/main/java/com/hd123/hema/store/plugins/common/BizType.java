@@ -1,7 +1,7 @@
 package com.hd123.hema.store.plugins.common;
 
 /**
- * @author zhanglin
+ * @author xiepingping
  * 
  */
 public class BizType {
